@@ -45,6 +45,9 @@ Net_Worth = 600000
 
 Suggested Price for Customer  [[45407.695]]
 ```
+## How to run
+1. Clone Repo and Run `main_notebook.ipynb`
+2. Dependecies should be installed (See first block on notebook)
 
 ## Potential Improvements
 - Use Country as a variable (Transforming categorical to be used in ANN is needed)
